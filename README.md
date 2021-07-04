@@ -1,2 +1,2 @@
 # VIVAFERN
-<img align="center" src="vivafern.png"> 
+<img align="center" src="vivafern_graphic.png"> 
