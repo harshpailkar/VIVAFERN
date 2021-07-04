@@ -1,0 +1,61 @@
+ID,        NAME,      SOIL TYPE,        T Min (in C),                T Max (in C),   Type, LIFE(in weeks)
+1,Ladyfingers,Loamy,10,35,Veg,11
+2,Cauliflowers,Loamy,15,25,Veg,6
+3,Bittergourds,Sandy,25,30,Veg,3
+4,FrenchBeans,Loamy,10,20,Veg,52
+5,Cabbage,Clay,15,20,Veg,12
+6,Spinach,Loamy,5,20,Veg,1
+7,Fenugreek,Loamy,10,30,Veg,104
+8,Potatoes,Silty,15,20,Veg,12
+9,Carrot,Loamy,15,20,Veg,5
+10,Tomatoes,Clay,20,25,Veg,24
+11,Onion,Silty,10,35,Veg,24
+12,Lemon,Loamy,20,40,Veg,4
+13,Cilantro,Loamy,10,30,Veg,7
+14,Peppers,Sandy,15,30,Veg,104
+15,Eggplant,Sandy,25,35,Veg,3
+16,Strawberries,Sandy,5,25,Fruits,156
+17,Figs,Clay,15,20,Fruits,1820
+18,Apples,Clay,15,25,Fruits,1820
+19,Mangoes,Sandy,25,30,Fruits,15600
+20,Pomegranetes,Loamy,20,35,Fruits,1040
+21,Plums,Loamy,5,45,Fruits,520
+22,Pears,Loamy,5,45,Fruits,2600
+23,Grapes,Loamy,10,40,Fruits,2704
+24,Bananas,Loamy,15,35,Fruits,1300
+25,Watermelon,Sandy,20,25,Fruits,16
+26,Passion Fruit,Sandy,20,30,Fruits,312
+27,Pineapple,Sandy,20,30,Fruits,364
+28,JackFruit,Sandy,20,35,Fruits,208
+29,Papaya,Loamy,20,30,Fruits,156
+30,Oranges,Loamy,10,35,Fruits,2600
+31,Fuchsia,Clay,15,20,Flowers,1300
+32,Red Rose,Loamy,15,30,Flowers,780
+33,SnapDragons,Silty,10,25,Flowers,2
+34,Daisies,Loamy,20,25,Flowers,104
+35,Hydrangeas,Silty,5,20,Flowers,2600
+36,Foxgloves,Sandy,20,25,Flowers,104
+37,Carnations,Loamy,15,25,Flowers,208
+38,Hibiscus,Silty,15,30,Flowers,2600
+39,Stargazer Lilies,Loamy,25,30,Flowers,2
+40,Begonias,Peaty,45,50,Flowers,104
+41,Amaranthus,Loamy,15,25,Flowers,24
+42,Garden Cosmos,Sandy,20,25,Flowers,52
+43,California Poppies,Sandy,10,20,Flowers,10
+44,Petunias,Sandy,15,20,Flowers,104
+45,Astilbe,Clay,15,25,Flowers,780
+46,Asparagus,Sandy,15,30,Crops,520
+47,Barley,Loamy,5,35,Crops,52
+48,Basil,Loamy,25,30,Crops,48
+49,Beetroots,Sandy,15,25,Crops,12
+50,Broccoli,Silty,15,25,Crops,104
+51,Chamomile,Sandy,15,20,Crops,52
+52,Corn,Loamy,0,45,Crops,104
+53,Garlic,Sandy,0,10,Crops,16
+54,Ginger,Loamy,20,30,Crops,36
+55,GreenBeans,Clay,15,30,Crops,52
+56,Kale,Sandy,15,20,Crops,59
+57,Lettuce,Loamy,10,20,Crops,19
+58,Mint,Loamy,15,20,Crops,156
+59,Wheat,Silty,20,35,Crops,52
+60,Rice,Clay,10,45,Crops,24
