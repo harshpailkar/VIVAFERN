@@ -9,4 +9,4 @@
 3. To view the source code access the "vivafern.cpp" file.
 
 * ## What's next for VivaFern ##
-  We need to improve the user interface and make it easy to use for the people to understand its working.
+  We need to improve the user interface and make it easy to use for the people to understand its working. We would also try to reduce the length of the code and include databases.
