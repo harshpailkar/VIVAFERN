@@ -36,7 +36,7 @@ int main()
 
     char var{}; // Convert the User Input to UpperCase Letter
 
-    vector<vector<string>>database
+    vector<vector<string>>database // Database for the suggest function.
     {
         {"Ladyfingers","Loamy","10","35","Vegetables","11"},{"Cauliflowers"	,"Loamy",	"15",	"25",	"Vegetables",	"6"},{"Bittergourds"	,"Sandy",	"25",	"30",	"Vegetables"	,"3"},
         {"FrenchBeans",	"Loamy",	"10",	"20",	"Vegetables",	"52"},{"Cabbage",	"Clay"	,"15",	"20"	,"Vegetables",	"12"},{"Spinach",	"Loamy"	,"5",	"20",	"Vegetables",	"1"},
